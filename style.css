@@ -1,17 +1,16 @@
-.container{
-    width: 200%;
-    min-height: 200%;
+body{
     background: linear-gradient(135deg, #153677, #4e085f);
-    padding: 100px;
 }
 
 .To-Do{
     width: 100%;
     max-width: 540px;
     background: #fff;
-    margin: 100px auto 20px;
+    position: relative;
     padding: 40px 30px 70px;
     border-radius: 10px;
+    left: 960px;
+    top: 100px;
 }
 
 .To-Do h2{
